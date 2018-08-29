@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: __Julia Diggs_____________________________________
 
 ## DUE: 30 Aug 2018
 
