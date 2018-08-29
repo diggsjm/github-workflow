@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+    color: darkslateblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+
+
+
+
+}
+body ul {
+    font-size: 22px;
+}
+
+
+main {
+    background-color: darkslateblue;
+
+
+
+}
+
+header {
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+
+}
+
+header h1 {
+    background-color: darkslateblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 410px;
+    <!-- floa center; -->
+    font-size: 30px;
+
+
+
+
+}
+#wrapper{
+    width: 980px;
+    background-color: lightblue;
+    margin: auto;
+}
+
+
+
+
+
