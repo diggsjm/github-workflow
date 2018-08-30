@@ -24,6 +24,7 @@ header {
 
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 24px;
+    color: white;
 
 }
 
@@ -33,15 +34,21 @@ header h1 {
     width: 410px;
     <!-- floa center; -->
     font-size: 30px;
+    color: white;
 
 
 
 
 }
-#wrapper{
-    width: 980px;
-    background-color: lightblue;
-    margin: auto;
+
+#topStory{
+    background-color: darkslateblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    float: left;
+    font-size: 25px;
+    color: white;
+
+
 }
 
 
